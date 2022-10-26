@@ -1,3 +1,6 @@
+# Links used
+https://python.plainenglish.io/how-to-build-a-predictive-machine-learning-site-with-react-and-python-part-three-frontend-72c063e8716e
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
