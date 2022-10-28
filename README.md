@@ -1,3 +1,11 @@
+# Technologies
+* React frontend
+* Flask (Python 3.11) backend
+* NoSQL (SQLite) Database if needed
+
+# TO DO
+* Get dependencies running so when this is pushed and running it has Everything. Flask, react, pip, npm
+
 # Links used
 https://python.plainenglish.io/how-to-build-a-predictive-machine-learning-site-with-react-and-python-part-three-frontend-72c063e8716e
 
